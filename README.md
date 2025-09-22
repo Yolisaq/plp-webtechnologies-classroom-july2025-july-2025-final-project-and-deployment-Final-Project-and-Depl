@@ -1,90 +1,57 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# 🌟 Personal Portfolio Website 🚀
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
-
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+Welcome! This is my personal portfolio website created as part of the **July 2025 PLP Academy . This project showcases my skills, education, interests, and projects, helping others learn about me and get in touch. 💻✨
 
 ---
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
+## ❓ What is this project about?
 
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
+This website serves as an online portfolio — basically, a place where I present who I am, what I know, and what I’ve built. It’s designed for potential employers, collaborators, or anyone interested in my work to easily understand my background and contact me. 📱💬
 
 ---
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+## 📋 What does the portfolio include?
 
-Using your plan, begin building:
-
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
-
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+- 💻 **Programming Languages:** A list of coding languages I am comfortable with.  
+- 👩‍💼 **About Me:** A brief introduction about myself, my passions, and my goals.  
+- 🎓 **Educational Background:** Information about my studies and a downloadable CV.  
+- 🌐 **Interests:** Areas of technology and development I’m passionate about.  
+- 🛠️ **Projects:** Links and descriptions of some projects I have worked on.  
+- 📬 **Contact Form:** A simple form to reach me directly from the website.
 
 ---
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+## 🛠️ How was it built?
 
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+- Using **HTML** and **CSS** — the core technologies for creating and styling web pages.  
+- Focused on a clean, responsive design that works well on both computers and mobile devices.  
+- All work was done individually during the hackathon timeframe (July 30 – August 3, 2025). ⏳
 
 ---
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
+## 🌍 Where can I see the project?
 
-Once your project is complete, choose a method to **host your site online**.
+The complete project Link is publicly available here:  
+https://yolisaqadiproject.netlify.app/
 
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
 
 ---
 
-## Deliverables
+## 🎯 What did I learn?
 
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+- 📚 How to organize a professional portfolio site.  
+- ✍️ Writing clean, well-structured HTML and CSS.  
+- 🎨 Creating user-friendly navigation and contact forms.  
+- ⏰ Managing my time and delivering a complete project within a deadline.
 
 ---
 
-## Outcome
+## 📞 Contact
 
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+Feel free to reach out using the contact form on the site or via my GitHub profile! 🤝
+
+---
+
+Thank you for visiting my portfolio! 🙏🚀
+
+*— Yolisa Qadi, August 2025*
