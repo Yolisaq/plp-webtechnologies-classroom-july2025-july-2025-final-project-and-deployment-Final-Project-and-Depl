@@ -25,7 +25,7 @@ This website serves as an online portfolio — basically, a place where I presen
 
 - Using **HTML** and **CSS** — the core technologies for creating and styling web pages.  
 - Focused on a clean, responsive design that works well on both computers and mobile devices.  
-- All work was done individually during the hackathon timeframe (July 30 – August 3, 2025). ⏳
+- All work was done individually during the timeframe (July 30 – November 30, 2025). ⏳
 
 ---
 
